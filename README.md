@@ -1,9 +1,9 @@
 # jquery-xImage
 
 
-### 在页面引入jquery.xImage.js
+### 一、在页面引入jquery.xImage.js
 
-### 调用方式根据需求来选择，一共提供了如下几种：
+### 二、调用方式根据需求来选择，一共提供了如下几种：
 
 #### style 0 
 ```
@@ -61,5 +61,7 @@ $('#ImageBox5 img').xImage({
 	animated : 'fade'
 });
 ```
+
+此为版本1.0，如果在调用过程中发现问题，欢迎来邮告知：lunali_me@163.com。
 
 
