@@ -5,14 +5,14 @@
 
 ### 二、调用方式根据需求来选择，一共提供了如下几种：
 
-#### style 0 
+#### style 0: 
 ```
 $('#ImageBox0 img').xImage({  
 	animated : 'fade'  
 }); 
 ```
 
-#### style 1 
+#### style 1:
 ```
 $('#ImageBox1 img').xImage({  
 	ImageNav : '#ImageNav1 li',  
@@ -22,7 +22,7 @@ $('#ImageBox1 img').xImage({
 }); 
 ```
 
-#### style 2
+#### style 2:
 ```
 $('#ImageBox2 img').xImage({  
 	ImageNav : '#ImageNav2 li',
@@ -33,7 +33,7 @@ $('#ImageBox2 img').xImage({
 }); 
 ```
 
-#### style 3
+#### style 3:
 ```
 $('#ImageBox3 img').xImage({  
     ImageNav : '#ImageNav3 li',
@@ -44,7 +44,7 @@ $('#ImageBox3 img').xImage({
 }); 
 ```
 
-#### sytle 4
+#### sytle 4:
 ```
 $('#ImageBox4 img').xImage({  
 	ImageNav : '#ImageNav4 li',
@@ -54,7 +54,7 @@ $('#ImageBox4 img').xImage({
 }); 
 ```
 
-#### sytle 5
+#### sytle 5:
 ```
 $('#ImageBox5 img').xImage({  
 	ImageNav : '#ImageNav5 li',
